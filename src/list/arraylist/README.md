@@ -1,0 +1,3 @@
+### Java ArrayList
+
+#### Java'da, dizi kullanmadan önce bir dizinin boyutunu bildirmemiz gerekir. Bir dizinin boyutu bir kez bildirildikten sonra onu değiştirmek zordur. Bu sorunu halletmek için ArrayList sınıfını kullanabiliriz. Yeniden boyutlandırılabilir diziler oluşturmamıza olanak tanır. Dizi listelerinden farklı olarak, dizi listeleri, onlara öğe eklediğimizde veya onlardan öğe çıkardığımızda kapasitelerini otomatik olarak ayarlayabilir. Bu nedenle, dizi listeleri dinamik diziler olarak da bilinir.
